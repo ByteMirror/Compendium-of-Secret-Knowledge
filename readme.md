@@ -1,4 +1,4 @@
-# Mac OS Power User Tips
+# Mac Spellbook of Secrets
 
 > 👋🏻 Disclaimer
 >
