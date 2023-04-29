@@ -2,7 +2,7 @@
 
 > 👋🏻 Disclaimer
 >
-> I really love Mac OS but some things about it are quite annoying. For that reason I wanted to create a list of changes I make to Mac OS to make it more productive and fun to use. I thought sharing this list might help other B. Braun Developers struggling with the same issues. If there is some other amazing tip you of know of let me know.
+> I really love Mac OS but some things about it are quite annoying. For that reason I wanted to create a list of changes I make to Mac OS to make it more productive and fun to use. I thought sharing this list might help other Developers struggling with the same issues.
 
 
 ## Useful Settings
