@@ -1,4 +1,4 @@
-# Mac Spellbook of Secrets
+# Compendium of Secret Knowledge
 
 > 👋🏻 Disclaimer
 >
